@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+In my time as *Portfolio Lead*, I have gained new skills in **PowerBI and DAX, Product Ownership, and the importance of KPI tracking** throughout the year. 
