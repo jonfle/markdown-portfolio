@@ -1,3 +1,4 @@
+## My role at AB
 In my time as *Portfolio Lead*, I have gained new skills in **PowerBI and DAX, Product Ownership, and the importance of KPI tracking** throughout the year. Over the summer, I had my first managerial experience. The lessons I learned were:
 
 1. Give **clear and measurable** deliverables right away
